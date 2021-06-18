@@ -1,5 +1,5 @@
 entity framework codefirst c# wpf mvvm mssql
-db:
+db tables:
 Employee
 Department
 Orders
